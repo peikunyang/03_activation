@@ -1,4 +1,4 @@
-# Quantum Convolutional Neural Network with Nonlinear Effects and Barren Plateau Mitigation
+# Quantum Convolutional Neural Network Incorporating Nonlinear Effects and Mitigating Barren Plateaus
 
 **Author:** Pei-Kun Yang  
 **E-mail:** peikun@isu.edu.tw, peikun6416@gmail.com
