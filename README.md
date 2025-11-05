@@ -71,8 +71,8 @@ To train or evaluate models, navigate to the target configuration directory.
 For example, to run MNIST with a multiplication factor of (4×4) and kernel size (4×4):
 
 ```bash
-cd 1_mnist/2_08_08/mul4_con4
-python train.py
+cd 1_mnist/2_08_08/mul1_con4/3_-3/test2
+./exe
 ```
 
 You can modify the multiplication factor or kernel size by entering other subfolders such as `mul2_con8` or `mul8_con2`.
